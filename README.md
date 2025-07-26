@@ -1,31 +1,245 @@
-<h1 align="center">Hi 👋, I'm Herilala RAKOTO</h1>
-<h3 align="center">A passionate about AI,Web developping ,and Devops</h3>
+# 🚀 `CONNECTING TO MATRIX...` ⚡
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalakely&label=Profile%20views&color=0e75b6&style=flat" alt="lalakely" /> </p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World%2C+I'm+HERILALA+RAKOTO;AI+DEVELOPER+%7C+WEB+ARCHITECT+%7C+DEVOPS+ENGINEER;%3E+Hacking+the+future+with+code...)
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  ![Profile Views](https://komarev.com/ghpvc/?username=lalakely&label=VISITORS&color=brightgreen&style=for-the-badge&logo=github)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  
+  ```
+  ┌─[SYSTEM@HERILALA]─[~]
+  └──╼ whoami
+  >>> AI Enthusiast | Code Architect | Digital Nomad
+  ```
+  
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalakely" alt="lalakely" /></a> </p>
+---
 
-- 🔭 I’m currently working on [MADA.H](https://madahoff.com)
+## 🔥 `[SYSTEM STATUS: ONLINE]` 
 
-- 🌱 I’m currently learning **Ogre, MERN stack**
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+  
+</div>
 
-- 📝 I regularly write articles on [AI](AI)
+```bash
+#!/bin/bash
+# Initializing developer profile...
 
-- 💬 Ask me about **react , C , C++**
+class HackTheCode {
+    constructor() {
+        this.name = "Herilala RAKOTO";
+        this.title = "AI Engineer & Full-Stack Architect";
+        this.location = "Madagascar 🇲🇬";
+        this.currentMission = "Building MADA.H Platform";
+        this.learning = ["Ogre Engine", "MERN Stack", "Neural Networks"];
+        this.expertise = ["React", "C/C++", "Python", "Node.js"];
+        this.passion = "Creating AI that changes the world";
+        this.status = "Always Learning, Always Building";
+    }
+    
+    getCurrentFocus() {
+        return "Transforming ideas into digital reality";
+    }
+}
 
-- 📫 How to reach me **rakotoherilala04@gmail.com**
+const dev = new HackTheCode();
+console.log(dev.getCurrentFocus());
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakoto herilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakoto herilala" height="30" width="40" /></a>
-<a href="https://fb.com/herilala rakoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="herilala rakoto" height="30" width="40" /></a>
+---
+
+## ⚡ `[CURRENT OPERATIONS]`
+
+<div align="center">
+  
+  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  
+</div>
+
+```yaml
+active_projects:
+  - name: "MADA.H Platform"
+    url: "https://madahoff.com"
+    status: "🔥 IN DEVELOPMENT"
+    tech_stack: ["React", "Node.js", "MongoDB", "AI/ML"]
+    
+learning_pipeline:
+  - "🎮 Ogre 3D Engine"
+  - "🌐 MERN Stack Mastery"
+  - "🧠 Advanced Neural Networks"
+  - "☁️ Cloud Architecture"
+  
+blog_topics:
+  - "🤖 Artificial Intelligence"
+  - "💻 Code Architecture"
+  - "🚀 Future Tech Trends"
+```
+
+---
+
+## 🛠️ `[TECH ARSENAL]`
+
+<div align="center">
+  
+  ![Tech GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+  
+</div>
+
+### 🔥 **CORE LANGUAGES**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,java,php&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### ⚡ **FRAMEWORKS & LIBRARIES**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,qt&theme=dark" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalakely&show_icons=true&locale=en&layout=compact" alt="lalakely" /></p>
+### 🗄️ **DATABASES & CLOUD**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,linux,arduino&theme=dark" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalakely&show_icons=true&locale=en" alt="lalakely" /></p>
+### 🎨 **DESIGN & TOOLS**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,matlab&theme=dark" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalakely&" alt="lalakely" /></p>
+---
+
+## 📊 `[HACKING STATISTICS]`
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Analyzing+GitHub+Matrix...;Decoding+commit+patterns...;Generating+statistics...)
+  
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lalakely&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalakely&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalakely&theme=chartreuse-dark&hide_border=true&background=0D1117)
+  
+</div>
+
+---
+
+## 🏆 `[ACHIEVEMENT UNLOCKED]`
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fDW/giphy.gif" width="200">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=lalakely&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4)
+  
+</div>
+
+---
+
+## 🌐 `[ESTABLISH CONNECTION]`
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Initiating+social+protocols...;Ready+for+collaboration!)
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build the future together!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/rakoto-herilala)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black)](https://fb.com/herilala-rakoto)
+  [![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=black)](mailto:rakotoherilala04@gmail.com)
+  
+</div>
+
+---
+
+## 🐍 `[CONTRIBUTION MATRIX]`
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/lalakely/lalakely/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+---
+
+## 💬 `[PHILOSOPHY.TXT]`
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%22Code+is+poetry%2C+bugs+are+just+typos%22;%22AI+is+not+magic%2C+it's+just+math+with+attitude%22;%22In+code+we+trust%2C+in+tests+we+verify%22)
+  
+</div>
+
+---
+
+<details>
+<summary>🔍 <b>EXPAND MATRIX</b> - Advanced Analytics</summary>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400">
+  
+  ### 📈 **CODE ACTIVITY MATRIX**
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalakely&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF)
+  
+  ### ⚡ **SYSTEM METRICS**
+  ```bash
+  $ system_status --detailed
+  
+  ┌─────────────────────────────────────┐
+  │ DEVELOPER METRICS                   │
+  ├─────────────────────────────────────┤
+  │ Lines of Code Written: ∞            │
+  │ Coffee Consumed: 9999+ cups         │
+  │ Problems Solved: Daily              │
+  │ Bugs Created: 0 (officially)       │
+  │ Bugs Fixed: All of them             │
+  │ Learning Mode: Always ON            │
+  └─────────────────────────────────────┘
+  ```
+  
+  ### 🎵 **CURRENT CODING SOUNDTRACK**
+  ```javascript
+  const codingPlaylist = [
+    "Cyberpunk 2077 OST",
+    "Daft Punk - Tron Legacy",
+    "Deadmau5 - Electronic Vibes",
+    "Synthwave Mix",
+    "Lo-fi Hip Hop Radio"
+  ];
+  ```
+  
+</div>
+
+</details>
+
+---
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=5000&pause=3000&color=00FF41&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+digital+space!;Ready+to+hack+the+future+together%3F;Let's+build+something+amazing!)
+  
+  ```
+  ┌─[SESSION_END]─[SUCCESS]
+  └──╼ exit
+  >>> Connection terminated. See you in the matrix! 🚀
+  ```
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+  
+</div>
