@@ -33,7 +33,7 @@
 class HackTheCode {
     constructor() {
         this.name = "Herilala RAKOTO";
-        this.title = "AI Engineer & Full-Stack Architect";
+        this.title = "CEO co-founder of MADA.H";
         this.location = "Madagascar 🇲🇬";
         this.currentMission = "Building MADA.H Platform";
         this.learning = ["Ogre Engine", "MERN Stack", "Neural Networks"];
